@@ -1,2 +1,5 @@
-# Car-Sales-first-project
-First Excell project using pivot and creating Dashboards based on car-sales.
+# Projects from Corsera Course IBM Data Analyst.
+
+First Project - 
+Car-Sales - using Excell, Pivot Tables and Dashboards.
+
